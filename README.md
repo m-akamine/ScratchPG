@@ -2,12 +2,17 @@
 
 ## 1日目
 1. プログラミングとは
-2. Scratchとは、サンプルゲームプレイ(20分)
+2. Scratchとは、サンプルゲームプレイ
 3. Scratchの基本的な使い方
 4. 簡単なゲームを作ってみよう(PKゲーム)
 5. アレンジしてみよう
 
 ## 2日目
+1. ゲームを改良しながら学ぶ1([森の射撃訓練](https://scratch.mit.edu/projects/172353414))
+2. アレンジしてみよう
+3. ゲームを改良しながら学ぶ2([月面OMOCHI探索隊](https://scratch.mit.edu/projects/183404473))
+4. アレンジしてみよう
+5. 次のステップ
 
 ## 「Scratch」で作られた凄いゲーム
 
@@ -19,3 +24,7 @@
 
 * Super Mario Bros. 3 - A Scrolling Platformer  
 [https://scratch.mit.edu/projects/391229022](https://scratch.mit.edu/projects/391229022)
+
+
+## 講座資料
+[ゲームを改造しながら学ぶ Scrachプログラミングドリル](https://scratch.futurecraft.jp/)
