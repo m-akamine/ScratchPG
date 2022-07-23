@@ -12,9 +12,9 @@
 2. アレンジしてみよう
 3. ゲームを改良しながら学ぶ2([月面OMOCHI探索隊](https://scratch.mit.edu/projects/183404473))
 4. アレンジしてみよう
-5. 次のステップ
+5. NEXTステップ
 
-## 「Scratch」で作られた凄いゲーム
+### 「Scratch」で作られた凄いゲーム
 
 * super Mariokart 楽しいぞ  
 [https://scratch.mit.edu/projects/676746699](https://scratch.mit.edu/projects/676746699)
@@ -26,5 +26,28 @@
 [https://scratch.mit.edu/projects/391229022](https://scratch.mit.edu/projects/391229022)
 
 
-## 講座資料
-[ゲームを改造しながら学ぶ Scrachプログラミングドリル](https://scratch.futurecraft.jp/)
+### 講座資料
+* [ゲームを改造しながら学ぶ Scrachプログラミングドリル](https://scratch.futurecraft.jp/)
+
+
+### NEXTステップ
+* [code.org(コードオルグ)](https://code.org/)
+* [Paiza(パイザ)](https://paiza.jp/)
+* [Unity(ユニティ)](https://unity.com/ja)
+
+
+### 参考素材
+* ピクセルガロー  
+[https://hpgpixer.jp/](https://hpgpixer.jp/)
+
+* ドットイラスト  
+[https://dot-illust.net/](https://dot-illust.net/)
+
+* ドッタウン  
+[https://dotown.maeda-design-room.net/](https://dot-illust.net/)
+
+* ドット絵世界  
+[http://yms.main.jp/](http://yms.main.jp/)
+
+* ミニドット絵メーカー３  
+[https://neutralx0.net/tools/dot3/](https://neutralx0.net/tools/dot3/)
